@@ -10,7 +10,7 @@
   <body>
     @include('layouts.partial.navbar')
 
-    <div class="container">
+    <div class="container mt-3">
         @yield('container')
     </div>
 
